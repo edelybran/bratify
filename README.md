@@ -19,17 +19,17 @@ cd your-repo-name
 
 Install the dependencies:
 
-yarn install
-# or
-npm install
+- yarn install
+or
+- npm install
 
 ### Running the App
 
 To start the development server:
 
-yarn dev
-# or
-npm run dev
+- yarn dev
+or
+- npm run dev
 
 Visit http://localhost:3000 in your browser to see the app in action.
 
